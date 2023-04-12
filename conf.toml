@@ -1,0 +1,7 @@
+ip = "127.0.0.1"
+port = 1421
+start_ip = "127.0.0.1"
+end_ip = "127.0.0.2"
+start_port = 1419
+end_port = 1421
+log = "/etc/prekladac/log.txt"
